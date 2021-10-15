@@ -30,7 +30,7 @@ six==1.14.0
 tb-nightly==1.14.0a20190614
 tensorboard==1.12.2
 tensorflow-estimator==1.14.0
-tensorflow-gpu==1.12.0
+tensorflow-gpu==1.13.1
 termcolor==1.1.0
 tf-estimator-nightly==2.1.0.dev2020012309
 tf-nightly-gpu==1.14.1.dev20190419
